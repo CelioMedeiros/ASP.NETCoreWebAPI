@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VNYXNHBROdb0iLrwTgrBKBKh15+PvlZPGMH+TMd+cW3shBjgvQPHFMoJ/4k2tm5p17m9V6vfehYJdIVfjs2mGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\celio\\Desktop\\Udemy\\Asp.Net Core WebApi\\Seção 01\\01_Fim\\MimicAPI\\MimicAPI\\MimicAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
